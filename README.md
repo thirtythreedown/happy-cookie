@@ -1,4 +1,4 @@
-You looked like you could use a cookie.
+tl;dr: You looked like you could use a cookie.
 
 Like it? Slap it on a tee-shirt, put it on a sticker at <a href="https://www.redbubble.com/people/thirtythreedown/works/28803419-happy-cookie">Red Bubble</a>.
 
