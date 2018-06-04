@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="74.431007mm"
-   height="60mm"
+   width="281.31406"
+   height="226.77165"
    viewBox="0 0 74.431008 60"
    version="1.1"
    id="svg4821"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="happy cookie - simple.svg">
+   sodipodi:docname="happy cookie - simple.svg"
+   inkscape:export-filename="C:\Users\Mel\Desktop\happy cookie - RedBubble.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4815" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="257.004"
-     inkscape:cy="72.619252"
+     inkscape:zoom="0.087500001"
+     inkscape:cx="1112.8001"
+     inkscape:cy="2096.8703"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +42,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="px" />
   <metadata
      id="metadata4818">
     <rdf:RDF>
@@ -59,7 +63,9 @@
      transform="translate(-547.42121,-198.31803)">
     <g
        id="g7254-9"
-       transform="matrix(0.61002073,0,0,0.61002073,1312.9056,16.036049)">
+       transform="matrix(0.61002073,0,0,0.61002073,1312.9056,16.036049)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          sodipodi:nodetypes="scsssssssccssssssscccsssssssccssssssscs"
          inkscape:connector-curvature="0"
@@ -85,10 +91,14 @@
        d="m 584.66635,208.21062 c -0.61734,-0.002 -1.23456,0.004 -1.8511,0.0205 -8.32892,0.21833 -16.23808,2.12904 -22.33115,5.39483 -1.04454,0.56158 -2.02174,1.15551 -2.92908,1.77776 -0.90734,0.62225 -1.74484,1.27279 -2.50999,1.9476 -0.76515,0.6748 -1.45795,1.37386 -2.0759,2.09311 -0.61801,0.71925 -1.16112,1.45869 -1.62687,2.21426 -0.46581,0.75559 -0.85427,1.52731 -1.16282,2.31111 -0.30861,0.78378 -0.53736,1.57967 -0.68377,2.38356 -0.1464,0.8039 -0.21046,1.61583 -0.18966,2.4317 v 4.68532 c -0.0348,0.74235 0,1.48276 0.10542,2.21807 0.10443,0.73532 0.27749,1.46554 0.5176,2.18756 0.2401,0.72202 0.54719,1.43583 0.91967,2.13829 0.37247,0.70247 0.81035,1.39359 1.31191,2.07025 0.50156,0.67666 1.06686,1.33886 1.69421,1.98346 0.62728,0.6446 1.31667,1.2716 2.06644,1.87789 0.74978,0.60628 1.55995,1.19185 2.42886,1.75356 12.90536,8.31946 34.90929,9.18072 49.47421,1.93648 l 1.90753,-1.02254 c 0.96853,-0.5608 1.87331,-1.15035 2.71222,-1.76501 0.8389,-0.61464 1.61191,-1.2544 2.31698,-1.91563 0.705,-0.66122 1.34204,-1.34392 1.90893,-2.04443 0.56696,-0.70052 1.06376,-1.41886 1.48839,-2.15139 0.42458,-0.73252 0.77699,-1.47923 1.05503,-2.23649 0.27811,-0.75726 0.48186,-1.52505 0.60917,-2.29975 0.12731,-0.7747 0.17819,-1.5563 0.15049,-2.34117 l -0.006,-4.68489 c 0.0287,-0.77338 -0.0189,-1.54423 -0.14109,-2.30908 -0.12201,-0.76481 -0.31837,-1.52362 -0.58703,-2.27288 -0.26871,-0.74927 -0.60971,-1.489 -1.02105,-2.21568 -0.41134,-0.72668 -0.89301,-1.44032 -1.44307,-2.1374 -0.55011,-0.69708 -1.16849,-1.37761 -1.8533,-2.03807 -0.68481,-0.66045 -1.43599,-1.30086 -2.25153,-1.91767 -0.81553,-0.61683 -1.69549,-1.21008 -2.63785,-1.77625 -6.65685,-3.98695 -15.80868,-6.25845 -25.37058,-6.297 z"
        id="path5418-7-5-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscssssssccsssssscccssssssccsssssscsc" />
+       sodipodi:nodetypes="cscssssssccsssssscccssssssccsssssscsc"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g7034-3"
-       transform="matrix(0.61002073,0,0,0.61002073,1313.5517,63.19519)">
+       transform="matrix(0.61002073,0,0,0.61002073,1313.5517,63.19519)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
       <path
          sodipodi:nodetypes="ccssssssscscssssssscccsssssssccsssssssccc"
          inkscape:connector-curvature="0"
